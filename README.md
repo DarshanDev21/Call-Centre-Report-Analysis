@@ -32,7 +32,7 @@ Through this project, I applied and mastered:
 4. **Dynamic Images**: Showcase relevant information visually using Excel formulas.
 
 ## 📸 Screenshots
-![Dashboard Overview]([./Screenshots/dashboard-overview.png](https://github.com/DarshanDev21/Call-Centre-Report-Analysis/blob/main/Call-Centre-Report-Analysis.png))
+![Dashboard Overview]<img src ="https://github.com/DarshanDev21/Call-Centre-Report-Analysis/blob/main/Call-Centre-Report-Analysis.png"></img>
 _A sample image of the dashboard showcasing its features._
 
 ## 📥 How to Use
